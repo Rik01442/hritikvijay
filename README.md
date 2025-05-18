@@ -1,28 +1,41 @@
-<img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg" width="100%"/>
+<img src="https://your-banner-image-url" width="100%" />
 
 # Hi 👋, I'm Hritik Vijay  
-A Passionate Data Engineer & AI/ML Enthusiast
+A Data Engineering Enthusiast | Big Data • Python • Cloud
 
-- 🔭 I’m currently working on **Big Data Projects**
-- 🌱 I’m currently learning **Apache Spark & Kafka**
-- 💬 Ask me about **Data Engineering, Python, PySpark**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 🔭 Currently working on cloud-based data pipelines
+- 🌱 Learning Apache Kafka, AWS Glue, and PySpark
+- 💬 Ask me about Python, SQL, and ETL systems
+- 📫 Reach me: [your-email@example.com](mailto:your-email@example.com)
 
-## 🧰 Languages and Tools:
-### Front-end:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
+---
 
-### Back-end:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
+## 🛠️ Languages & Tools
 
-### Other Tools:
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux)
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Data Engineering
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
 
 ## 📈 GitHub Stats
-![Hritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+
+![Hritik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rik01442&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rik01442&layout=compact&theme=tokyonight)
