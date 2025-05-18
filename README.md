@@ -1,41 +1,57 @@
-<img src="https://your-banner-image-url" width="100%" />
+<!-- Header Image (optional) -->
+<img src="https://i.pinimg.com/originals/5a/62/df/5a62df1f57f7a0bd6bb355f8b2a6709e.gif" alt="header" width="100%" />
 
 # Hi 👋, I'm Hritik Vijay  
-A Data Engineering Enthusiast | Big Data • Python • Cloud
+### A Passionate Data Engineering Enthusiast from India 🇮🇳
 
-- 🔭 Currently working on cloud-based data pipelines
-- 🌱 Learning Apache Kafka, AWS Glue, and PySpark
-- 💬 Ask me about Python, SQL, and ETL systems
-- 📫 Reach me: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-## 🛠️ Languages & Tools
-
-### Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Data Engineering
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
-
-### Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- 🌱 I’m currently diving deep into **Apache Spark** and **Delta Lake**
+- 🛠️ I work with **Big Data**, **Streaming Pipelines**, and **Cloud Data Platforms**
+- 💬 Ask me about **ETL pipelines**, **PySpark**, or **Kafka**
+- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- ⚡ Fun fact: I love turning raw data into meaningful insights!
 
 ---
 
-## 📈 GitHub Stats
+## 🧰 Languages and Tools I Work With:
 
-![Hritik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rik01442&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rik01442&layout=compact&theme=tokyonight)
+### Data Engineering Stack:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+</p>
+
+### Cloud and Big Data Tools:
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40" />
+</p>
+
+---
+
+## 📈 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rik01442&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rik01442&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🔗 Connect With Me:
+<p>
+  <a href="https://linkedin.com/in/hritik-vijay" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="30" height="30"/>
+  </a>
+</p>
