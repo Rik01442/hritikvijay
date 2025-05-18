@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/kHMuXtU2VvZwcg9pto/giphy.gif" width="100%"/>
+  
 </div>
 
 # Hi 👋, I'm Hritik Vijay  
