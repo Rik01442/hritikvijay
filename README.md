@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/your-image.png" width="100%"/>
+   <img src="[https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)" width="100%"/>
 </div>
 
 # Hi 👋, I'm Hritik Vijay  
